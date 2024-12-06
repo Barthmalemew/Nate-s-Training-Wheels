@@ -1,1 +1,8 @@
 /.codebuddy
+# Codebuddy specific files and directories
+.codebuddy/
+.codebuddy/*
+*.codebuddy
+.codebuddy.json
+.codebuddy.log
+.codebuddy_history
